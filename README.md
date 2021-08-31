@@ -1,0 +1,2 @@
+# Travel-tours-website-template
+Travels is a responsive Landing Page for a tour website developed using HTML, CSS and JAVASCRIPT. Developed first with the Mobile First methodology, then for desktop. Compatible with all mobile devices and with a beautiful and interactive user interface. Utilized the materialize ui to provide styled components for faster build. The build process involved manipulation of external Js libraries such as scroll reveal animation making the site more interactive and beautiful
